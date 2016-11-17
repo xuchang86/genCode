@@ -15,8 +15,8 @@ CreateDate: 2013-7-10
 			<property name="suppressAllComments" value="true" />
 		</commentGenerator>
 		
-		<jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://101.200.230.3:3306/xiaoyao_test"
-			userId="root" password="2ed7b468ef">
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://112.74.20.36:3306/xiaoyao_test"
+			userId="root" password="5c12f63a8f">
 		</jdbcConnection>
 
 		<javaTypeResolver>
